@@ -30,7 +30,7 @@ describe(`${program.title}`, function() {
       },
       {
         name: "banana",
-        dateAdded: 1490541828000, // 2018-03-26
+        dateAdded: 1490541828000, // 2017-03-26
         quantity: 1
       }
     ];
